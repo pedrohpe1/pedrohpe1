@@ -4,10 +4,6 @@
 Currently at **ExxonMobil**, working with financial data at enterprise scale (US$10B+ quarterly flows).  
 Open to **global and remote opportunities** in data analytics, FP&A, and analytics engineering.
 
-## 📈 GitHub Stats
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
-
 ---
 
 ## 🎓 Education & Certifications
